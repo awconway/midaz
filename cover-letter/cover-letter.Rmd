@@ -1,0 +1,48 @@
+---
+toname: Systematic reviews
+toaddress: Editorial Board
+opening: To the editor, 
+closing: Regards,
+spacing: 1
+output: ConwayLetterTemplate::letter
+---
+
+Thank you for considering our manuscript for publication. We report results of an update of our Cochrane systematic review on Midazolam for Sedation before Procedures, which was published in 2016. Since this time, new relevant evidence has become available that we consider is important to highlight. Also, the citation metrics for the original review (63 citations in Google Scholar since 2016, including 14 citations in 2020) indicate research interest in using midazolam for sedation before procedures persists, so it is important that new findings are incorporated into our review and disseminated.
+
+Please note that, in accordance with the journal's instructions regarding article formatting for ['Systematic Review Updates'](https://systematicreviewsjournal.biomedcentral.com/submission-guidelines/preparing-your-manuscript/systematic-review-update), we have attempted to be 'innovative' in our reporting. The article is restricted to highlighting the minor differences in methods which were applied between the previous version and this update, as well as describing the results and conclusions that have changed from the original version. We provide full descriptions of the complete methods and results (not just those comparisons with new evidence) in the Additional Files.
+
+Also, as an Associate Editor for *Systematic Reviews*, I am all too aware that it can sometimes be challenging to find reviewers for manuscripts. As such, I have provided below a list of reviewers with content and methods expertise that is relevant to our review. Please don't hesitate to reach out for more reviewer recommendations if required.
+
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Potential reviewer        | Email address                              | Reason/Expertise                                                     |
++===========================+============================================+======================================================================+
+| Chaipichit Puttapitakpong | iamkeang\@hotmail.com                      | Author of one of the included RCTs                                   |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Ali Ebrahimzadeh          | Ebrahimzadehali\@yahoo.com                 | Author of one of the included RCTs                                   |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Lingli Zhang              | zhanglingli\@scu.edu.cn                    | Author of recent systematic review on midazolam                      |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Paul Ashley               | p.ashley\@ucl.ac.uk                        | Author of Cochrane systematic review of dental sedation              |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Choong Yi Fong            | choongyi\@hotmail.com; cyfong\@ummc.edu.my | Author of Cochrane systematic review of chloral hydrate for sedation |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Desiree Neville           | desiree.neville\@chp.edu                   | Author of one of the included RCTs                                   |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Kalev Freeman             | kalev.freeman\@uvm.edu                     | Author of one of the included RCTs                                   |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Tianyang Dai              | daitianyang12345\@163.com                  | Author of recent meta-analysis of sedation for bronchoscopy          |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Igor Braga Ribeiro        | igorbraga1\@gmail.com                      | Author of recent meta-analysis of sedation for endoscopy             |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Ji-Feng Feng              | 604282082\@qq.com                          | Author of recent meta-analysis of dexmedetomidine for sedation       |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Lukas Kreienbühl          | lukas.kreienbuehl\@helios-gesundheit.de    | Author of systematic review of patient-controlled sedation           |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Basavana Gouda            | goudrab\@uphs.upenn.edu                    | Author of systematic review of non-anaesthesia provided sedation     |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Hyuk Lee                  | leehyuk\@skku.edu                          | Author of systematic review of BIS monitoring for sedation           |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Yan Zheng                 | Yan\_Zheng88\@163.com                      | Author of systematic review of propofol for colonoscopy              |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
+| Douglas G. Adler          | Douglas.Adler\@hsc.utah.edu                | Author of systematic review of propofol for colonoscopy              |
++---------------------------+--------------------------------------------+----------------------------------------------------------------------+
