@@ -1,0 +1,96 @@
+---
+toname: Systematic Reviews
+toaddress: Editorial Board
+opening: To the editor, 
+closing: Regards,
+spacing: 1
+output: ConwayLetterTemplate::letter
+---
+
+Thank you for allowing us to revise our manuscript for further consideration for publication. Please find our responses to the comments from the reviewers below.
+
+# Reviewer 1
+
+*I was glad to read and review the author's interesting work.
+This is an interesting study that can benefit from more thorough reporting and discussion, and appears to be well performed in general and the manuscript is well written. However, the manuscript still could be further improved after some revisions.*
+
+Response:
+
+>Thank you for reviewing our paper. Please find our responses to your specific suggestions below.
+
+*In methods section; Since the research method is described in detail in the previous study, it is omitted from the text and presented as an'additional file'. It may be a text-recycling conscious method, but it may not be kind to readers.*
+
+Response:
+
+>Please note that, in accordance with the journal's instructions regarding article formatting for 'Systematic Review Updates' (https://systematicreviewsjournal.biomedcentral.com/submission-guidelines/preparing-your-manuscript/systematic-review-update), we have attempted to be 'innovative' in our reporting. It is for this reason that the paper was restricted to highlighting the minor differences in methods which were applied between the previous version and this update, as well as describing the results and conclusions that have changed from the original version. We provide full descriptions of the complete methods and results (not just those comparisons with new evidence) in the Additional Files. 
+
+>We have added some additional detail to the methods section as a brief description of the essential aspects of the methods, including the databases searched, methods for study selection and risk of bias assessments as well as considerations for the meta-analyses undertaken. The changes have been highlighted using track changes.
+
+*Including only pure RCT in the study may be a method to secure study quality, but there is a disadvantage of low sensitivity searching. Some of the results were not able to be concluded due to insufficient number of studies.*
+
+Response:
+  
+>Discussion regarding this point has been added to the limitations section. It reads:
+
+>"Finally, this review was limited to studies that used a randomized controlled trial design. Consideration for the inclusion of studies that used non-randomized designs may be worthwhile for evidence syntheses on the effectiveness of midazolam for sedation before procedures in the future because the total number of studies included in each comparison was relatively small."
+
+*Subgroup analysis was attempted to confirm the effect of age on the results, but it was not performed due to the small number of studies. In particular, midazolam is sensitive to the elderly and is highly likely to cause over sedation and respiratory depression, so it is regrettable that no additional analysis information was provided.*
+
+>Discussion regarding this point has been added to the limitations section:
+
+>It reads:
+
+>"An additional limitation is that we were unable to conduct the planned subgroup analyses. In particular, elderly patients may be particularly sensitive to the sedative effects of midazolam, so it is unfortunate we were unable to conduct this specific subgroup analysis."
+
+
+*'Any route, dose or time' -> Factors that have a significant influence on the main outcome -> Subgroup analysis is necessary. Ultimately, it is difficult to evaluate the effect of midazolam uniformly because all procedures differ in intensity and frequency of stimulation due to differences in method. -> Subgroup analysis or analysis is required for each specific procedure. -> Cannot be conducted because the number of studies is insufficient -> Expected to have a clear effect on the pooled effect as well as the effect on heterogeneity*
+
+Response:
+
+>Discussion regarding this point has been added to the limitations section:
+
+>It reads:
+
+>"It should also be noted that an inherent difficulty in evidence syntheses for medications used in procedural sedation is that all procedures differ in intensity and frequency of stimulation, which potentially impacts sedation efficacy. Our rationale for pooling results of studies that used different doses of midazolam and also different procedures, was that, presumably, an appropriate dose of midazolam would have been chosen based on the intensity and frequency of stimulation for the procedures. That said, factors such as the dosage used and type of procedure performed, could be reasons for the inconsistency in results between studies. An alternative approach that could be considered for similar systematic reviews in the future (or updates for this review) would be to only pool results from studies that used the same dosage of midazolam for the same procedures."
+
+*The authors concluded that it is difficult to draw a clear conclusion due to the overall low quality of the studies included in review. If you collect only studies of good quality and analyze the results, it is good to check what differences are there. It is described as having performed the sensitivity test, but there is no specific explanation.*
+
+Response:
+
+>We have highlighted now in the methods section that sensitivity analyses for trials rated as low versus moderate or high risk of bias were not conducted due to an insufficient number of studies to perform such analyses:
+
+>"There was an insufficient number of studies to perform subgroup analyses based on age, type of procedure and medical specialty or sensitivity analyses for trials rated low versus moderate or high risk of bias."
+
+*Protocol registration number is not presented in the text*
+
+Response:
+
+>This systematic review update was for a Cochrane review, which was not registered, but the protocol was published.
+
+*What are the factors in the Other bias category? What were you reviewing?*
+
+Response:
+
+>The 'Other bias' category was assesed according to Cochrane recommendations (https://handbook-5-1.cochrane.org/chapter_8/8_15_2_assessing_risk_of_bias_from_other_sources.htm). 
+
+*Will the results change if future studies with good quality are included? (Is it predictable through TSA, etc.)*
+
+Response:
+
+>We believe that our use of the GRADE framework makes it clear which results will likely change if higher quality evidence is identified in the future. For example, for outcomes where the GRADE rating is 'low-quality', which was most of the outcomes included in our review, this means that further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate. We did not undertake trial sequential analyses.
+
+*Why didn't you visualize the results? (Is there any reason not to suggest a way to easily check the results through graphs familiar to readers?)*
+
+Response:
+
+>We believe the summary of findings tables we included are the best way to concisely present the evidence for the new comparisons included in this update or those with new/changed conclusions. Considering there were several comparisons included in the update and several separate meta-analyses included within each comparison, it would not be possible to include a forest plot for each of these in the paper, due to space considerations. Also, the summary of findings tables are able to present additional information important for interpreting the evidence, such as the GRADE certainty of evidence rating.
+
+# Reviewer 2
+
+*Thank you for giving me the possibility to review this manuscript. It is valuable and well written.*
+
+Response:
+
+>Thank you for reviewing our manuscript. We are glad you consider it a valuable contribution to the evidence for the use of midazolam for sedation before procedures.
+
+
